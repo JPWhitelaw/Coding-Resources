@@ -1,11 +1,4 @@
 
-# ✨ Comprehensive Study Resources ✨
-**A curated collection of books and references** for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more. <br />
-**A collection of more than 200+  programming ebooks at one place at no cost**
-
-![alt text](./__assets/book_banner.png)
-
-
 **Before We Dive In, Here Are Some Cool Sites You Should Visit at Least Once**
 
 1. [Goal Kicker](https://goalkicker.com/)
